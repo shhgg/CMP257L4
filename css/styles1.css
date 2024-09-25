@@ -1,0 +1,31 @@
+body {
+    background-color: #fbe2e5;
+}
+article {
+    background-color:#fabea7;
+    font-family: fantasy;
+    color: aliceblue;
+    margin-left:30%;
+    margin-right:30%;
+  }
+
+h1 {
+    font-family: fantasy;
+    color:#9cada4; 
+    /*margin-left:40%;*/
+    text-align:center;
+}
+
+img {
+    border-radius: 50%;
+    width: 140px; 
+    height: 160px; 
+    margin-left:30%;
+}
+.like{
+    border-bottom: dotted #FF441d;
+}
+#summer_river{
+    background-image: url("river.jpg");
+}
+
